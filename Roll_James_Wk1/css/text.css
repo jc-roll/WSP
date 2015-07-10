@@ -11,9 +11,23 @@ img {
 	padding-left:10px;
 	margin: 0 auto;}
 	
-.header, .nav, .cta, .contact {
+.header, .nav, .cta, .contact, .bio {
 	background-image:url(../img/background2.jpg);}	
 	
+	
+.bio img{
+	margin: 0 auto;
+	display: block;}
+	
+.bio h1{
+	text-align:center;}
+	
+.bio h2{
+	text-align:center;}
+	
+.bio p{
+ 	margin-left: 100px;
+	margin-right: 100px;}
 h1{
 	color:#3B2008;
 	font-family: "Iron & Brine";
@@ -24,7 +38,8 @@ h2{
 	color:#3B2008;
 	font-family: "Iron & Brine";
 	padding-left: 15px;
-	padding-top: 5px;}
+	padding-top: 5px;
+	text-align:left;}
 	
 	
 h2{
