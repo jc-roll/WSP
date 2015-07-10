@@ -5,23 +5,35 @@ body{
 	max-width: 980px;
 	width: 100%;
 	margin:0 auto;
-	background-color:#000;}
-
+	background-image:url(../img/background1.jpg);}
 	
 img {
 	padding-left:10px;
 	margin: 0 auto;}
 	
-.header {
-	background-color:#3282B2;}
+.header, .nav, .cta, .contact {
+	background-image:url(../img/background2.jpg);}	
 	
-h1, h2{
+h1{
+	color:#3B2008;
 	font-family: "Iron & Brine";
 	padding-left: 15px;
 	padding-top: 20px;}
 	
+h2{
+	color:#3B2008;
+	font-family: "Iron & Brine";
+	padding-left: 15px;
+	padding-top: 5px;}
+	
+	
+h2{
+	padding-bottom: none;}
 	
 p{
-	color:#FFF;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#484647;
+	font-size:19px;
 	padding-left: 15px;
-	padding-bottom:10px;}
+	padding-bottom:25px;
+	border-bottom: 1px solid #000;}
