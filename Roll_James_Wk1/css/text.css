@@ -8,11 +8,14 @@ body{
 	background-image:url(../img/background1.jpg);}
 	
 img {
-	padding-left:10px;
-	margin: 0 auto;}
+	display: block;
+	margin: 0 auto;
+	box-shadow: 5px 5px 3px #888888;
+	border-radius: 5px;}
 	
-.header, .nav, .cta, .contact, .bio {
-	background-image:url(../img/background2.jpg);}	
+.header, .nav, .cta, .contact, .bio, .sign, .footer, .email, .nav2, .schedule {
+	background-image:url(../img/background2.jpg);
+	border-radius: 15px;}	
 	
 	
 .bio img{
@@ -39,11 +42,9 @@ h2{
 	font-family: "Iron & Brine";
 	padding-left: 15px;
 	padding-top: 5px;
-	text-align:left;}
-	
-	
-h2{
+	text-align:left;
 	padding-bottom: none;}
+	
 	
 p{
 	font-family:Arial, Helvetica, sans-serif;
