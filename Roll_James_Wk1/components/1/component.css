@@ -6,3 +6,54 @@ COMPONENT STYLESHEET
 /* HEADER ======================================== */
 
 /* HEADER ======================================== */
+
+html{
+	font-size: 62.5%; }
+	
+body{
+	font: 1.6em/1.4 ;
+	font-family: Circular,Helvetica,Arial,sans-serif;}
+	
+
+header{
+	max-width: 3000px;
+	margin: 0 auto;}
+	
+
+p{
+	padding-top: 2em;
+	padding-bottom: 2em;
+	font-size:26px;
+	font-weight:400;
+	background-image:url(logo.png);
+	background-position:center;
+	background-repeat:no-repeat;
+	width:300px;
+	margin-left: 100px;
+	text-indent: -9999px;
+	float:left;}
+	
+ul{
+	font-size:26px;
+	float: right;
+	text-transform:uppercase;}
+	
+li{
+	padding-top: 2em;
+	padding-bottom: 2em;
+	margin-right:30px;}
+	
+a{
+	color:#172632;}
+	
+li:last-child{
+	background-image:url(log.png);
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-right: 100px;
+	width:200px;
+	text-indent: -9999px;}
+	
+p, ul, li{
+	display: inline-block;}
+	

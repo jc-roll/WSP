@@ -6,3 +6,11 @@ COMPONENT STYLESHEET
 /* HEADER ======================================== */
 
 /* HEADER ======================================== */
+
+
+section{
+	background: #333;}
+	
+.wrapper{
+	max-width: 100%;
+	

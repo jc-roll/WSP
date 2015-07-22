@@ -3,6 +3,93 @@
 COMPONENT STYLESHEET
 ================================================================================ */
 
-/* HEADER ======================================== */
+
 
 /* HEADER ======================================== */
+
+html{
+	font-size: 62.5%; }
+	
+body{
+	font: 400 1.6em/1.4 sans-serif;
+	color: #777777;
+	background: #CCC;}
+	
+section{
+	padding: 2rem;
+	max-width: 1000px;
+	margin: 0 auto;
+	text-align:center;}
+	
+h2{
+	font-weight:600;
+	font-size:2.4em;
+	text-transform:uppercase;}
+	
+h3{
+	font-size: 1.8rem;
+	color: #555;
+	padding-top:2rem;}
+	
+p{
+	margin-bottom:1rem;
+	}
+	
+/* Team Members ======================================== */	
+		
+article{
+	padding:2rem;
+	background: #FFF;
+	width: calc(25% - 4rem);
+	margin: 0 2rem;
+	float: left;}
+	
+img{
+	border-radius: 50%;
+	width: 70%;}
+	
+li{
+	display:inline-block;}
+	
+li a{
+	width: 2rem;
+	display: block;
+	height: 2rem;
+	text-indent: -9999px;}
+	
+li a [href*='facebook']{
+	background: url(images/facebook.jpg) no-repeat center;
+	background-size: 2rem;}
+	
+	
+li a [href*='twitter']{
+	background: url(images/facebook.jpg) no-repeat center;
+	background-size: 2rem;}
+	
+li a [href*='google']{
+	background: url(images/facebook.jpg) no-repeat center;
+	background-size: 2rem;}
+	
+p:last-child a {
+	position: relative;
+	width: 2rem;
+	display: inline-block;
+	height: 2rem;
+	background:#333333;
+	border-radius: 50%;
+	text-indent: -9999px}
+	
+p:last-child a::after {
+	content: "hello";
+	display: block;
+	width: 0;
+	height:0;
+	border-top:solid 1rem transparent;
+	border-bottom:solid 0.5rem transparent;
+	border-left:solid 1 white ;
+	position: absolute;
+	top: 0;
+	left: 0;
+	
+	
+	
