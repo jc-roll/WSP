@@ -6,3 +6,48 @@ COMPONENT STYLESHEET
 /* HEADER ======================================== */
 
 /* HEADER ======================================== */
+
+html{
+	font-size: 62.5%; }
+	
+body{
+	font: 1.6em/1.4 ;
+	font-family: Circular,Helvetica,Arial,sans-serif;}
+	
+section{
+	background-color:#949590;
+	height: 400px;}
+	
+
+h2{
+	padding-top: 3em;
+	margin: 0 auto;
+	font-size: 44px;
+	color:#FAF9FA;
+	text-transform: uppercase;}
+	
+h3{
+	padding-bottom: 1em;
+	padding-top: 1em;
+	margin: 0 auto;
+	font-size: 16px;
+	color:#FAF9FA;
+	text-transform: uppercase;}
+
+
+	
+a{
+	display:block;
+	text-align:center;
+	padding-top: 12px;
+	background-color: #06ACC9;
+	width: 200px;
+	height: 40px;
+	color:#FAF9FA;
+	font-size: 16px;
+	text-transform: uppercase;
+	border-radius: 2px;}
+	
+h2, h3, p{
+	margin-left: 20px;}
+
