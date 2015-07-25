@@ -6,3 +6,98 @@ COMPONENT STYLESHEET
 /* HEADER ======================================== */
 
 /* HEADER ======================================== */
+
+html{
+	font-size: 62.5%; }
+	
+body{
+	font: 1.6em/1.4 ;
+	font-family: Circular,Helvetica,Arial,sans-serif;}
+	
+nav{
+	height: 600px;
+	width:306px;
+	background-color:#020202;}
+	
+
+input{
+	color:#C4C4C4;
+	font-size:20px;
+	padding-bottom:10px;
+	padding-top:10px;
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-left: 10px;
+	background-image:url(Screen%20Shot%202015-07-24%20at%2010.04.05%20PM.png);
+	background-repeat:no-repeat;
+	background-color:#020202;
+	padding-left:70px;}
+	
+h2{
+	color:#C4C4C4;
+	font-size:16px;
+	padding-bottom:10px;
+	padding-top:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left: 10px;
+	text-transform: uppercase;
+	font-weight:600;}
+
+li a{
+	color:#C4C4C4;}
+	
+li:nth-of-type(1){
+	background-image:url(Screen%20Shot%202015-07-24%20at%2010.04.19%20PM.png);
+	background-repeat:no-repeat;
+	background-color:#020202;
+	height: 35px;
+	font-size:20px;
+	padding-bottom:10px;
+	padding-top:10px;
+	margin-left: 10px;
+	padding-left: 60px;}
+	
+li:nth-of-type(2){
+	background-image:url(Screen%20Shot%202015-07-24%20at%2010.04.59%20PM.png);
+	background-repeat:no-repeat;
+	background-color:#020202;
+	height: 35px;
+	font-size:20px;
+	padding-bottom:10px;
+	padding-top:10px;
+	margin-left: 10px;
+	padding-left: 60px;}
+	
+li:nth-of-type(3){
+	background-image:url(Screen%20Shot%202015-07-24%20at%2010.05.10%20PM.png);
+	background-repeat:no-repeat;
+	background-color:#020202;
+	height: 35px;
+	font-size:20px;
+	padding-bottom:10px;
+	padding-top:10px;
+	margin-left: 10px;
+	padding-left: 60px;}
+	
+li:nth-of-type(4){
+	background-image:url(Screen%20Shot%202015-07-24%20at%2010.05.15%20PM.png);
+	background-repeat:no-repeat;
+	background-color:#020202;
+	height: 35px;
+	font-size:20px;
+	padding-bottom:10px;
+	padding-top:10px;
+	margin-left: 10px;
+	padding-left: 60px;}
+	
+li:nth-of-type(5){
+	background-image:url(Screen%20Shot%202015-07-24%20at%2010.05.19%20PM.png);
+	background-repeat:no-repeat;
+	background-color:#020202;
+	height: 35px;
+	font-size:20px;
+	padding-bottom:10px;
+	padding-top:10px;
+	margin-left: 10px;
+	padding-left: 60px;}
