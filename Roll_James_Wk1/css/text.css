@@ -67,3 +67,14 @@ button{
 	margin-left: 5px;
 	margin-top:16px;
 	color:#003967;}
+			
+a{
+	display:block;
+	text-align:center;
+	padding-top: 12px;
+	width: 200px;
+	height: 40px;
+	color:#FAF9FA;
+	font-size: 16px;
+	text-transform: uppercase;
+	border-radius: 2px;}
