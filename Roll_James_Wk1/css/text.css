@@ -67,12 +67,14 @@ button{
 	color:#003967;}
 			
 a{
+	margin: 0 auto;
 	display:block;
 	text-align:center;
 	padding-top: 12px;
 	width: 200px;
-	height: 40px;
+	height: 80px;
 	color:#FBFBFB;
 	font-size: 16px;
 	text-transform: uppercase;
+	text-decoration:none;
 	border-radius: 2px;}
