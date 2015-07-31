@@ -57,11 +57,8 @@ p{
 button{
 	margin: 0 auto;
 	display: block;
-	color:#F1f1f1;
 	font-family: Arial, Helvetica, sans-serif;
-	background-image:url(../img/background1.jpg);
-	margin-top: 10px;
-	padding:3px;
-	border-radius: 5px;
-	border:none;
-	border-style:outset;}
+	
+	font-size: 16px;
+	color:#FAF9FA;
+	text-transform: uppercase;}
