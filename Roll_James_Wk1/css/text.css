@@ -62,8 +62,6 @@ button{
 	font-size: 12px;
 	border-radius: 2px;
 	border-style: none;
-	margin-left: 5px;
-	margin-top:16px;
 	color:#FBFBFB;}
 			
 a{
@@ -71,8 +69,8 @@ a{
 	display:block;
 	text-align:center;
 	padding-top: 12px;
-	width: 200px;
-	height: 80px;
+	width: 300px;
+	height: 130px;
 	color:#FBFBFB;
 	font-size: 16px;
 	text-transform: uppercase;
