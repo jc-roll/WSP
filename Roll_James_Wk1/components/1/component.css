@@ -44,6 +44,7 @@ li{
 	margin-right:30px;}
 	
 a{
+	height:150px;
 	color:#172632;}
 	
 li:last-child{
@@ -53,6 +54,7 @@ li:last-child{
 	margin-right: 100px;
 	width:200px;
 	text-indent: -9999px;}
+	
 	
 p, ul, li{
 	display: inline-block;}
