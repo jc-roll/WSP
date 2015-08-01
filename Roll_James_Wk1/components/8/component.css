@@ -46,7 +46,7 @@ em{
 	color:#FFED00;}
 	
 button{
-	margin: 0 auto;
+	float:left;
 	display:block;
 	text-align:center;
 	background-color: #FFED00;
